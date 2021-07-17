@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey hey!
+**Thanks for landing on and checking out my GitHub! Here you'll mostly find a mix of projects however I'm currently working on projects that mainly involve Computer Vision and ReactJS!**
 <!--
 **ilaylow/ilaylow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
