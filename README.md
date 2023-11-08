@@ -3,7 +3,7 @@ Thanks for landing on and checking out my GitHub!
 
 ⚠️This is under construction, some cool projects are currently in the works! 🚧🏗️
 
-- ⚡ Fun fact: Burritos are my favourite thing in the world!
+- ⚡ Fun fact: Burritos are the pinnacle of human innovation!
 
 <!--
 **ilaylow/ilaylow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
