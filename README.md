@@ -1,7 +1,7 @@
 ### Why hello there!
 Thanks for landing on and checking out my GitHub! You might not find what you're looking for, but you can definitely find out more about me and what I'm working on here: https://ileylow.vercel.app
 
-- ⚡ Fun fact: Burritos are the pinnacle of human innovation!
+My Core Belief: Burritos are the pinnacle of human innovation.
 
 <!--
 **ilaylow/ilaylow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
