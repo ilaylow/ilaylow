@@ -1,7 +1,5 @@
 ### Why hello there!
-Thanks for landing on and checking out my GitHub!
-
-⚠️This is under construction, some cool projects are currently in the works! 🚧🏗️
+Thanks for landing on and checking out my GitHub! You might not find what you're looking for, but you can definitely find out more about me and what I'm working on here: https://portfolio-simple-pi.vercel.app
 
 - ⚡ Fun fact: Burritos are the pinnacle of human innovation!
 
