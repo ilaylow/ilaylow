@@ -1,8 +1,7 @@
 ### Hello!
 Thanks for landing here. You might not find what you're looking for, but you can definitely find out more about me and what I'm working on here: https://ileylow.vercel.app
 
-My Core Belief: Burritos are the pinnacle of human innovation.
-
+Alternatively, I've a blog: https://ley-pi.taild2085b.ts.net/blog/
 <!--
 **ilaylow/ilaylow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
